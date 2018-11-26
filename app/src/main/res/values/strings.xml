@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+
+    <string-array name="questions">
+        <item>What color corrects redness?</item>
+        <item>Where should you apply blush?</item>
+        <item>Where is the best place to test foundation?</item>
+        <item>Which brand is 100% cruelty free?</item>
+        <item>What should you use to seal in your final makeup look?</item>
+    </string-array>
+
+    <string-array name="correct_answers">
+        <item>Green</item>
+        <item>Cheek Apples</item>
+        <item>Jaw</item>
+        <item>E.L.F</item>
+        <item>Setting Pray</item>
+    </string-array>
+
+    <string-array name="incorrect_answers">
+        <item>Yellow</item>
+        <item>Lower Cheeks</item>
+        <item>Forehead</item>
+        <item>Avon</item>
+        <item>Primer</item>
+    </string-array>
+
+    <string name="initial_correct_incorrect">Please choose an answer...</string>
+
+
+</resources>
